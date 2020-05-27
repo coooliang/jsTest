@@ -1,1 +1,4 @@
-alert(1)
+
+document.write("123");
+
+alert(2);
